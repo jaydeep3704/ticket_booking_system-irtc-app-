@@ -1,4 +1,3 @@
-Here’s a clean `README.md` draft for your Train Ticket Booking System project:
 
 ---
 
@@ -66,7 +65,7 @@ train-ticket-booking/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/train-ticket-booking.git
+   git clone https://github.com/jaydeep3704/train-ticket-booking.git
    cd train-ticket-booking/app
    ```
 
