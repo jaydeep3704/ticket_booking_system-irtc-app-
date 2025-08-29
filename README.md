@@ -65,8 +65,8 @@ train-ticket-booking/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/jaydeep3704/train-ticket-booking.git
-   cd train-ticket-booking/app
+   git clone https://github.com/jaydeep3704/train_ticket_booking_system.git
+   cd train_ticket_booking_system
    ```
 
 2. **Compile the Project**
