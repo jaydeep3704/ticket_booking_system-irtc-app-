@@ -135,4 +135,3 @@ If using Maven, include in `pom.xml`:
 
 ---
 
-Would you like me to also add **example JSON structures** for `users.json`, `trains.json`, and `tickets.json` in the README so contributors understand the DB schema immediately?
